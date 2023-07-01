@@ -18,11 +18,15 @@ from google.cloud import storage
 import os
 from google.cloud import storage
 
+# Get the current directory
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
 # Set the path to the key file
-key_file_path = os.path.join("credentials", "key.json")
+key_file_path = os.path.join(current_dir, "key.json")
 
 # Set the environment variable for authentication
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = key_file_path
+
 
 # Access Google Cloud services using the credentials
 storage_client = storage.Client()
