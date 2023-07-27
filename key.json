@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "solar-attic-390514",
-  "private_key_id": "95185d66f9f2c035511c3afb6f9321ae7ba125b2",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCUdTReSwBt0pT2\nQCRQ22LBKjncLb/ZsmgJZQeibrLwRn1Rp0Jl8OKl8b/6E+k5lp5XDOSGRJi/aUKN\nVaTqGyCEqCLwvpeLnz6oGT/BDH/UVkl/o+ObA2cSdXSFRmtoHLYbWLrt4lPAOe/7\nGyd5Zw0ljd84HL02D/cTQCVwVTrxKqb7nIo/HKDlscDsYcoolNDK66mODtU5knp8\naHygSnbOFITf1ldwrdEsqfQTgYoR6FKNhBWbiNxrNKvjnpVjNxJ9hQxhL+Oc86IM\nwF7DHayuEVvhRNE1VPcddrzPL6EBt2VPPxEjUzcbG3y29fbUIqydvw+zttPWrXdl\nDHADiGevAgMBAAECggEAJ+GCc3A3ickfvjVF7Di7Q0P6LiVWG/+6xgdPcTnGtRhi\nkvxZMHRxFn4mgeI2bYOCPsVWYKFt3UHEIJ6owkEOT8SxOjYhFN9vIA5EW7JlZp/V\nd8YJnztfRYyrBCCCOwI3g4onET+TGxkVWEIXrRvbYsLFe9fwlmTcjV3WkOI8hsty\n/C3buc5TRC3joX24He4sWFt5bj+VmoGsJ5s3u5wmBGJDc0iaAHp88J+c7yatuZnG\n+sDONdjaISbQ0ZBsT+kuJKeJPXC2Nv/l4omirw5993mmzjB3eB7JRld3dsPmOgKa\nVOeqX8+to3HmocDcueRVdav9wX34yovJaVXeW1bG5QKBgQDQkMW7aqVZUH/R2a+x\nUwhds65oiLzX4G/xB64wjB3nU9Yltx6J2nnvhcU3yxwyGa0JafObCTtyIlaAxWS/\nXiUDvZRMjuM3esE17PBey4Jku0qJc2gR4hXz9OIShXhh/m0Pc+RZo8oFWO91CCGt\nynAf18YsLjv/GiGXIg4IxhLgHQKBgQC2OM5cbUwkmOhyZqg3AvwZEyfpODLd8h2m\nGtK4ki/0M7G/vTWBTc+WMpDA7L4tBN4bO5qG77KgpVHbOYt2lTyLnW6nP2htwdye\nPY4+HppMmDqKr8W0efUlYs5o88fwcT5zUurDI3ZMl4mXpnYGLq5v3ayz5JTRmklw\ncLiJ5w/1OwKBgQCtl0GsWvginXi1nfy4l4aIDuxj/yNGfnxNXfoiWAzvo/zCSWa2\nkEwbCvj6FihynqJCCpiCeq2qsl/TL/hJuz8NnPXYvrjpTVeQ3ZO3IqV119kTDCYb\ndFSXR0P+7G4lCdGWIfx2i3ey+bHcc5csgijOqBY+YYD4M7SviN2recjuFQKBgQCB\nJKtkJ/YR7ei3w3euXUgrwT7E9BZg5AoNQe9b7gdcbBKqkD9OX8Yibb3XbTGvGEcN\nR+XRgim33tKvqw3jQgtB65aTo8WwG/fukjOwZOH4LN84kTBuIw0RrQAas8Nc7fVT\nqE1HdWePCsryFoCJCyaHk7SlXff2wQERVmIDIiZWJwKBgBY7MCwUryViBtZRGT0I\n270EEiV2C3fJHEorulIVVJbbHj3vi/DP2ccnZLAxjKJEWSzPgkR6BI1bLHU1GoDR\nElp5JHuwH10DZ8QUuax0hy4i+ZyvXxShxxCOXe1AjBajo3vOmITZwzWf31toWTUm\ntF7NPHyp5rKY/qJk+IMy40rI\n-----END PRIVATE KEY-----\n",
-  "client_email": "chatpdf27june@solar-attic-390514.iam.gserviceaccount.com",
-  "client_id": "110856613347089534734",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatpdf27june%40solar-attic-390514.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
